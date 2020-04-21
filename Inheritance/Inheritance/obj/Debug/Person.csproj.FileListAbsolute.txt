@@ -1,0 +1,7 @@
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\Inheritance\Inheritance\obj\Debug\Person.csprojAssemblyReference.cache
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\Inheritance\Inheritance\obj\Debug\Person.csproj.CoreCompileInputs.cache
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

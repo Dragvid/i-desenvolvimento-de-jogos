@@ -1,0 +1,7 @@
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\rectângulo classe\rectângulo classe\bin\Debug\rectângulo classe.exe.config
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\rectângulo classe\rectângulo classe\bin\Debug\rectângulo classe.exe
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\rectângulo classe\rectângulo classe\bin\Debug\rectângulo classe.pdb
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\rectângulo classe\rectângulo classe\obj\Debug\rectângulo classe.csprojAssemblyReference.cache
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\rectângulo classe\rectângulo classe\obj\Debug\rectângulo classe.csproj.CoreCompileInputs.cache
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\rectângulo classe\rectângulo classe\obj\Debug\rectângulo classe.exe
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\rectângulo classe\rectângulo classe\obj\Debug\rectângulo classe.pdb

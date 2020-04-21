@@ -1,0 +1,7 @@
+C:\Users\dst30\source\repos\aula 3 idj\aula 3 idj\bin\Debug\aula 3 idj.exe.config
+C:\Users\dst30\source\repos\aula 3 idj\aula 3 idj\bin\Debug\aula 3 idj.exe
+C:\Users\dst30\source\repos\aula 3 idj\aula 3 idj\bin\Debug\aula 3 idj.pdb
+C:\Users\dst30\source\repos\aula 3 idj\aula 3 idj\obj\Debug\aula 3 idj.csprojAssemblyReference.cache
+C:\Users\dst30\source\repos\aula 3 idj\aula 3 idj\obj\Debug\aula 3 idj.csproj.CoreCompileInputs.cache
+C:\Users\dst30\source\repos\aula 3 idj\aula 3 idj\obj\Debug\aula 3 idj.exe
+C:\Users\dst30\source\repos\aula 3 idj\aula 3 idj\obj\Debug\aula 3 idj.pdb

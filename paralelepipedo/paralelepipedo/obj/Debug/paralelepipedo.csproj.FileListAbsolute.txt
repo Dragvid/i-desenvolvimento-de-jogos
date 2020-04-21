@@ -1,0 +1,7 @@
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\paralelepipedo\paralelepipedo\bin\Debug\paralelepipedo.exe.config
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\paralelepipedo\paralelepipedo\bin\Debug\paralelepipedo.exe
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\paralelepipedo\paralelepipedo\bin\Debug\paralelepipedo.pdb
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\paralelepipedo\paralelepipedo\obj\Debug\paralelepipedo.csprojAssemblyReference.cache
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\paralelepipedo\paralelepipedo\obj\Debug\paralelepipedo.csproj.CoreCompileInputs.cache
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\paralelepipedo\paralelepipedo\obj\Debug\paralelepipedo.exe
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\paralelepipedo\paralelepipedo\obj\Debug\paralelepipedo.pdb

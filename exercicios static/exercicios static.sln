@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicios static", "exercicios static\exercicios static.csproj", "{DD68FACF-1476-412A-B01C-DCD597C56D84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Planck Constant", "Planck Constant\Planck Constant.csproj", "{AACFF269-0DAC-4792-A45C-DBD00821460F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic Math", "Basic Math\Basic Math.csproj", "{478532FE-C176-40D2-9935-429E0B4C868D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes Volume", "Shapes Volume\Shapes Volume.csproj", "{8B4314C5-D926-4DAD-8FFD-35A04FD98142}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD68FACF-1476-412A-B01C-DCD597C56D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD68FACF-1476-412A-B01C-DCD597C56D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD68FACF-1476-412A-B01C-DCD597C56D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD68FACF-1476-412A-B01C-DCD597C56D84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AACFF269-0DAC-4792-A45C-DBD00821460F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AACFF269-0DAC-4792-A45C-DBD00821460F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AACFF269-0DAC-4792-A45C-DBD00821460F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AACFF269-0DAC-4792-A45C-DBD00821460F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{478532FE-C176-40D2-9935-429E0B4C868D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{478532FE-C176-40D2-9935-429E0B4C868D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{478532FE-C176-40D2-9935-429E0B4C868D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{478532FE-C176-40D2-9935-429E0B4C868D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B4314C5-D926-4DAD-8FFD-35A04FD98142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B4314C5-D926-4DAD-8FFD-35A04FD98142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B4314C5-D926-4DAD-8FFD-35A04FD98142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B4314C5-D926-4DAD-8FFD-35A04FD98142}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62B32E63-5E28-4E29-8963-17DC065C48E0}
+	EndGlobalSection
+EndGlobal

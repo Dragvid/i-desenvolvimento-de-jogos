@@ -1,0 +1,7 @@
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\exercicios static\exercicios static\obj\Debug\exercicios static.csprojAssemblyReference.cache
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\exercicios static\exercicios static\obj\Debug\exercicios static.csproj.CoreCompileInputs.cache
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\exercicios static\exercicios static\bin\Debug\exercicios static.exe.config
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\exercicios static\exercicios static\bin\Debug\exercicios static.exe
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\exercicios static\exercicios static\bin\Debug\exercicios static.pdb
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\exercicios static\exercicios static\obj\Debug\exercicios static.exe
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\exercicios static\exercicios static\obj\Debug\exercicios static.pdb

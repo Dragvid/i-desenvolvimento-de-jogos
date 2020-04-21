@@ -1,0 +1,7 @@
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\BeerCounter\bin\Debug\BeerCounter.exe.config
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\BeerCounter\bin\Debug\BeerCounter.exe
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\BeerCounter\bin\Debug\BeerCounter.pdb
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\BeerCounter\obj\Debug\BeerCounter.csprojAssemblyReference.cache
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\BeerCounter\obj\Debug\BeerCounter.csproj.CoreCompileInputs.cache
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\BeerCounter\obj\Debug\BeerCounter.exe
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\BeerCounter\obj\Debug\BeerCounter.pdb
