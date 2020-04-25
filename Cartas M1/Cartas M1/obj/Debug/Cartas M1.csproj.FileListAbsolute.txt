@@ -1,0 +1,10 @@
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\Cartas M1\Cartas M1\obj\Debug\Cartas M1.csprojAssemblyReference.cache
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\Cartas M1\Cartas M1\obj\Debug\Cartas M1.csproj.CoreCompileInputs.cache
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\Cartas M1\Cartas M1\bin\Debug\Cartas M1.exe.config
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\Cartas M1\Cartas M1\bin\Debug\Cartas M1.exe
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\Cartas M1\Cartas M1\bin\Debug\Cartas M1.pdb
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\Cartas M1\Cartas M1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\Cartas M1\Cartas M1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\Cartas M1\Cartas M1\obj\Debug\Cartas M1.csproj.CopyComplete
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\Cartas M1\Cartas M1\obj\Debug\Cartas M1.exe
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\Cartas M1\Cartas M1\obj\Debug\Cartas M1.pdb

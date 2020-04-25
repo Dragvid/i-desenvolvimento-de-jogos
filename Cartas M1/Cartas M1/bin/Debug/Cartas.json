@@ -1,0 +1,40 @@
+{
+  "character": [
+    {
+      "name": "Ace card",
+      "effect": "Can count as an 11 or a 1 in all stats",
+	  "health":1,
+      "Speed": 1,
+	  "Speed": 1,
+	  "range":1,
+	  "atack": 1
+    },
+    {
+      "name": "Figure J card",
+      "effect": "",
+	  "health":11,
+      "Speed": 11,
+	  "range":11,
+	  "atack": 11
+    }
+  ],
+  "scenery": [
+    {
+      "name": "Casino",
+      "effect": "cards with 'card' on its name have a boost",
+    }
+  ],
+  "Props":[
+  {
+	"name":"Handfull of tokens", 
+	"effect":"'You had luck at the machines!' draw a new Prop, and if it has 'card' on it's card text, draw another one",
+	"health":0,
+  }
+  ],
+  "Events":[
+  {
+	"name":"Blackjack!",
+	"effect":"draw one character, if it has 'card' on it's name or card text, draw another one. If the cards you drew have each 'Ace' and 'Figure' as their names, you can play them.",
+  }
+  ]
+}
