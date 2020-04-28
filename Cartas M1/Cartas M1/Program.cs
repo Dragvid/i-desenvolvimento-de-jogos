@@ -13,6 +13,7 @@ namespace Cartas_M1
         static void Main(string[] args)
         {
             string content = File.ReadAllText("Cartas.json");
+            //CardsDictionary cd = new CardsDictionary(content);
             Dictionary<string, List<Cards>> cards = JsonConvert.DeserializeObject<Dictionary<string, List<Cards>>>(content);
             foreach (KeyValuePair<string, List<Cards>> item in cards)
             {
@@ -23,15 +24,15 @@ namespace Cartas_M1
                     
                     if(item.Key== "character")
                     {
-                        Console.WriteLine("health: " + crd.health);
-                        Console.WriteLine("Atk: " + crd.atack);
-                        Console.WriteLine("Speed: " + crd.speed);
+                        Console.WriteLine("health: " + crd.Health);
+                        Console.WriteLine("Atk: " + crd.Attack);
+                        Console.WriteLine("Speed: " + crd.Speed);
                     }
                     if (item.Key == "Prop")
                     {
-                        Console.WriteLine("health: " + crd.health);
+                        Console.WriteLine("health: " + crd.Health);
                     }
-                    Console.WriteLine("effect: " + crd.effect);
+                    Console.WriteLine("effect: " + crd.Effect);
                     Console.WriteLine("\n");
                 }
             }

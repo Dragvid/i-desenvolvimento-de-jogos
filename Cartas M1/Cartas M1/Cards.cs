@@ -9,10 +9,20 @@ namespace Cartas_M1
     public class Cards
     {
         public string Name { get; set; }
-        public string effect { get; set; }
-        public int health { get; set; }
-        public int speed { get; set; }
-        public int range { get; set; }
-        public int atack { get; set; }
+        public string Effect { get; set; }
+        public int Health { get; set; }
+        public int Speed { get; set; }
+        public int Range { get; set; }
+        public int Attack { get; set; }
+
+        public Cards(string name, string effect, int health, int speed, int range, int attack) {
+            Name = name;
+            Effect = effect;
+            Health = health;
+            Speed = speed;
+            Range = range;
+            Attack = attack;
+        }
+
     }
 }

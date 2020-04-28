@@ -1,40 +1,39 @@
 {
   "character": [
     {
-      "name": "Ace card",
-      "effect": "Can count as an 11 or a 1 in all stats",
-	  "health":1,
-      "Speed": 1,
+      "Name": "Ace card",
+      "Effect": "all stats on this card can count as 11 or a 1. ",
+	  "Health":1,
 	  "Speed": 1,
-	  "range":1,
-	  "atack": 1
+	  "Range":1,
+	  "Attack": 1
     },
     {
-      "name": "Figure J card",
-      "effect": "",
-	  "health":11,
+      "Name": "Figure J card",
+      "Effect": "",
+	  "Health":11,
       "Speed": 11,
-	  "range":11,
-	  "atack": 11
+	  "Range":11,
+	  "Attack": 11
     }
   ],
   "scenery": [
     {
-      "name": "Casino",
-      "effect": "cards with 'card' on its name have a boost",
+      "Name": "Casino",
+      "Effect": "cards with 'card' on its name have a boost",
     }
   ],
   "Props":[
   {
-	"name":"Handfull of tokens", 
-	"effect":"'You had luck at the machines!' draw a new Prop, and if it has 'card' on it's card text, draw another one",
-	"health":0,
+	"Name":"Handfull of tokens", 
+	"Effect":"'You had luck at the machines!' draw a new Prop, and if it has 'card' on it's card text, draw another one",
+	"Health":0,
   }
   ],
   "Events":[
   {
-	"name":"Blackjack!",
-	"effect":"draw one character, if it has 'card' on it's name or card text, draw another one. If the cards you drew have each 'Ace' and 'Figure' as their names, you can play them.",
+	"Name":"Blackjack!",
+	"Effect":"draw one character, if it has 'card' on it's name or card text, draw another one. If the cards you drew have each 'Ace' and 'Figure' as their names, you can play them.",
   }
   ]
 }
