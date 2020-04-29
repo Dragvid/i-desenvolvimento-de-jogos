@@ -10,18 +10,18 @@ namespace Cartas_M1
     {
         public string Name { get; set; }
         public string Effect { get; set; }
-        public int Health { get; set; }
+        /*public int Health { get; set; }
         public int Speed { get; set; }
         public int Range { get; set; }
-        public int Attack { get; set; }
+        public int Attack { get; set; }*/
 
-        public Cards(string name, string effect, int health, int speed, int range, int attack) {
-            Name = name;
-            Effect = effect;
-            Health = health;
+        public Cards(string name, string effect) {
+            /*this.Name = name;
+            this.Effect = effect;
+            /*Health = health;
             Speed = speed;
             Range = range;
-            Attack = attack;
+            Attack = attack;*/
         }
 
     }

@@ -15,7 +15,7 @@ namespace Cartas_M1
             string content = File.ReadAllText("Cartas.json");
             //CardsDictionary cd = new CardsDictionary(content);
             Dictionary<string, List<Cards>> cards = JsonConvert.DeserializeObject<Dictionary<string, List<Cards>>>(content);
-            foreach (KeyValuePair<string, List<Cards>> item in cards)
+            /*foreach (KeyValuePair<string, List<Cards>> item in cards)
             {
                 Console.WriteLine("Card type: "+item.Key);
                 foreach (Cards crd in item.Value)
@@ -35,7 +35,7 @@ namespace Cartas_M1
                     Console.WriteLine("effect: " + crd.Effect);
                     Console.WriteLine("\n");
                 }
-            }
+        }*/
             Console.ReadLine();
         }
     }
