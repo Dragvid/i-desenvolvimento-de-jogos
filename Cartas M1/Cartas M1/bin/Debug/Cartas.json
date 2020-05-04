@@ -17,7 +17,7 @@
 	  "Attack": 11
     }
   ],
-  "scenery": [
+  "Scenery": [
     {
       "Name": "Casino",
       "Effect": "cards with 'card' on its name have a boost",

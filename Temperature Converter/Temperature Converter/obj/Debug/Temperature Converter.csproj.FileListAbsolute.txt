@@ -1,0 +1,2 @@
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\Temperature Converter\Temperature Converter\obj\Debug\Temperature Converter.csprojAssemblyReference.cache
+C:\Users\dst30\source\repos\i desenvolvimento de jogos\Temperature Converter\Temperature Converter\obj\Debug\Temperature Converter.csproj.CoreCompileInputs.cache

@@ -10,7 +10,7 @@ namespace Cartas_M1
     class CardsDictionary
     {
         CardsDictionary(string content) {
-            Dictionary<string, List<Cards>> cards = JsonConvert.DeserializeObject<Dictionary<string, List<Cards>>>(content);
+            Dictionary<string, List<Card>> cards = JsonConvert.DeserializeObject<Dictionary<string, List<Card>>>(content);
         }
         
     }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Cartas_M1
 {
-    public class Cards
+    public abstract class Card
     {
         public string Name { get; set; }
         public string Effect { get; set; }
@@ -14,9 +14,14 @@ namespace Cartas_M1
         public int Speed { get; set; }
         public int Range { get; set; }
         public int Attack { get; set; }*/
-
-        public Cards(string name, string effect) {
-            /*this.Name = name;
+        public override string ToString()
+        {
+            StringBuilder stringBuilder = new StringBuilder();
+            stringBuilder.Append(String.Format("Name: {0}, Effect: {1}", this.Name, this.Effect));
+            return stringBuilder.ToString();
+        }
+        public Card(string name, string effect) {
+            this.Name = name;
             this.Effect = effect;
             /*Health = health;
             Speed = speed;

@@ -12,9 +12,12 @@ namespace Cartas_M1
     {
         static void Main(string[] args)
         {
+
+            Character c = new Character(100, 10, 19, 12, "joao", "mata tudo");
+
             string content = File.ReadAllText("Cartas.json");
             //CardsDictionary cd = new CardsDictionary(content);
-            Dictionary<string, List<Cards>> cards = JsonConvert.DeserializeObject<Dictionary<string, List<Cards>>>(content);
+            Dictionary<string, List<Card>> cards = JsonConvert.DeserializeObject<Dictionary<string, List<Card>>>(content);
             /*foreach (KeyValuePair<string, List<Cards>> item in cards)
             {
                 Console.WriteLine("Card type: "+item.Key);
@@ -26,7 +29,7 @@ namespace Cartas_M1
                     {
                         Console.WriteLine("health: " + crd.Health);
                         Console.WriteLine("Atk: " + crd.Attack);
-                        Console.WriteLine("Speed: " + crd.Speed);
+                        Console.WriteLine("Speed: " + crd.Spe ed);
                     }
                     if (item.Key == "Prop")
                     {
