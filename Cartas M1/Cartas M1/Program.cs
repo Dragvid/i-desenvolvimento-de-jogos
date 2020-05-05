@@ -14,10 +14,12 @@ namespace Cartas_M1
         {
 
             Character c = new Character(100, 10, 19, 12, "joao", "mata tudo");
-
+            Event e1 = new Event("teste", "dá uma boa nota");
+            Console.WriteLine(c.Name);
+            Console.WriteLine(e1.Name);
             string content = File.ReadAllText("Cartas.json");
             //CardsDictionary cd = new CardsDictionary(content);
-            Dictionary<string, List<Card>> cards = JsonConvert.DeserializeObject<Dictionary<string, List<Card>>>(content);
+            //Dictionary<string, List<Card>> cards = JsonConvert.DeserializeObject<Dictionary<string, List<Card>>>(content);
             /*foreach (KeyValuePair<string, List<Cards>> item in cards)
             {
                 Console.WriteLine("Card type: "+item.Key);
