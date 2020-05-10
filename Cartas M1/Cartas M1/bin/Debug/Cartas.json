@@ -8,6 +8,14 @@
 	  "Range":1,
 	  "Attack": 1
     },
+	{
+	"Name": "King card",
+      "Effect": "",
+	  "Health":13,
+	  "Speed": 13,
+	  "Range":13,
+	  "Attack": 13
+	},
     {
       "Name": "Figure J card",
       "Effect": "",

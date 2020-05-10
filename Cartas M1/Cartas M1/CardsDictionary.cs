@@ -9,9 +9,11 @@ namespace Cartas_M1
 {
     class CardsDictionary
     {
-        CardsDictionary(string content) {
-            Dictionary<string, List<Card>> cards = JsonConvert.DeserializeObject<Dictionary<string, List<Card>>>(content);
-        }
-        
+        public string Name { get; set; }
+        public string Effect { get; set; }
+        public int Health { get; set; }
+        public int Speed { get; set; }
+        public int Range { get; set; }
+        public int Attack { get; set; }
     }
 }

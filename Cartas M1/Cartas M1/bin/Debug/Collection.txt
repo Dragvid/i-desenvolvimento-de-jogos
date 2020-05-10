@@ -1,0 +1,42 @@
+{
+ "character": [
+{
+ "Name":"joao teste"
+ "Effect": "mata tudo"
+ "Attack": "12"
+ "Health": "100"
+ "Speed": "10"
+ "Range": "19
+},
+{
+ "Name":"joao teste2"
+ "Effect": "mata tudo 2 vezes"
+ "Attack": "12"
+ "Health": "101"
+ "Speed": "10"
+ "Range": "19
+}
+],
+ "Scenery": [
+{
+ "Name":"Casino"
+ "Effect": "'Card' cards get a buff
+},
+{
+ "Name":"Castle"
+ "Effect": "'Knight'type cards get a buff
+}
+],
+ "Prop": [
+{
+ "Name":"bom programa"
+ "Effect": "funciona sem dar erros
+}
+],
+ "Event": [
+{
+ "Name":"Blackjack"
+ "Effect": "draw one character, if it has 'card' on it's name or card text, draw another one. If the cards you drew have each 'Ace' and 'Figure' as their names, you can play them.
+}
+ ]
+}

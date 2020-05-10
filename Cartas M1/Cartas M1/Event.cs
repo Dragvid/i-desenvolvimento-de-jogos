@@ -8,8 +8,8 @@ namespace Cartas_M1
 {
     class Event : Card
     {
-        private string Name;
-        private string Effect;
+        public string Name;
+        public string Effect;
         public Event(string name, string effect) : base(name, effect)
         {
             Name = name;
