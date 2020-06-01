@@ -10,6 +10,7 @@ namespace Cartas_M1
     {
         public string Name { get; set; }
         public string Effect { get; set; }
+
         /*public int Health { get; set; }
         public int Speed { get; set; }
         public int Range { get; set; }

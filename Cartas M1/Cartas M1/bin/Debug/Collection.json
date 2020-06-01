@@ -37,6 +37,10 @@
 {
  "Name":"Blackjack",
  "Effect": "draw one character, if it has 'card' on it's name or card text, draw another one. If the cards you drew have each 'Ace' and 'Figure' as their names, you can play them."
+},
+{
+ "Name":"David",
+ "Effect": " aparece!"
 }
  ]
 }

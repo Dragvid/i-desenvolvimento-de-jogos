@@ -22,7 +22,7 @@ namespace Cartas_M1
 
             List<Event> EventCol = new List<Event>();
             EventCol.Add(new Event("Blackjack", "draw one character, if it has 'card' on it's name or card text, draw another one. If the cards you drew have each 'Ace' and 'Figure' as their names, you can play them."));
-
+            EventCol.Add(new Event("David", " aparece!"));
             List<Prop> PropCol = new List<Prop>();
             PropCol.Add(new Prop(1, "bom programa", "funciona sem dar erros"));
             using (StreamWriter writer = new StreamWriter("Collection.json"))
